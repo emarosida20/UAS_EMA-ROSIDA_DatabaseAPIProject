@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 # UAS_EMA-ROSIDA_DatabaseAPIProject
-=======
-# UAS_Irga_Ramadhan_DatabaseAPIProject
 
-<h1>Nama: Irga Ramadhan Putra</h1>
+<h1>Nama: Ema Rosida</h1>
 <h1>Kelas: TI.20.D.1</h1>
 <h1>Matkul : Pemograman Mobile</h1>
 1. layout
