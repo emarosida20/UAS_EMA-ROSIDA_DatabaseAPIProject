@@ -31,5 +31,3 @@
      <br>
    ![image](https://github.com/IrgaRamadhanPutra/UAS_Irga_Ramadhan_DatabaseAPIProject/assets/101645216/a071015b-7afc-4c2b-b4a1-47f76b535403)
 
-
->>>>>>> 3c44979 (first commit)
