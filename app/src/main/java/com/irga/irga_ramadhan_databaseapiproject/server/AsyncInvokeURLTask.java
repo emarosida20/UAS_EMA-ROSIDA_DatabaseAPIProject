@@ -1,10 +1,10 @@
-package com.irga.irga_ramadhan_databaseapiproject.server;
+package com.ema.ema_rosida_databaseapiproject.server;
 
 import android.app.ProgressDialog;
 import android.content.Context;
 import android.os.AsyncTask;
 
-import com.irga.irga_ramadhan_databaseapiproject.hargaponline.adapter.DetailHandphone;
+import com.ema.ema_rosida_databaseapiproject.hargaponline.adapter.DetailHandphone;
 
 import java.io.BufferedReader;
 import java.io.IOException;
