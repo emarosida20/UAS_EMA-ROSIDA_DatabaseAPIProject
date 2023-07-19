@@ -1,4 +1,4 @@
-package com.irga.irga_ramadhan_databaseapiproject.model;
+package com.ema.ema_rosida_databaseapiproject.model;
 
 public class Handphone {
     private Integer id;
