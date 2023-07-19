@@ -1,4 +1,4 @@
-package com.irga.irga_ramadhan_databaseapiproject;
+package com.ema.ema_rosida_databaseapiproject;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.irga.irga_ramadhan_databaseapiproject", appContext.getPackageName());
+        assertEquals("com.ema.ema_rosida_databaseapiproject", appContext.getPackageName());
     }
 }
