@@ -1,4 +1,4 @@
-package com.irga.irga_ramadhan_databaseapiproject.hargaponline.adapter;
+package com.ema.ema_rosida_databaseapiproject.hargaponline.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -9,7 +9,7 @@ import android.widget.Filter;
 import android.widget.Filterable;
 import android.widget.TextView;
 
-import com.irga.irga_ramadhan_databaseapiproject.model.Handphone;
+import com.ema.ema_rosida_databaseapiproject.model.Handphone;
 
 import java.util.ArrayList;
 import java.util.List;
